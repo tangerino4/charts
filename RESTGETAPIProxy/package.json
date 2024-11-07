@@ -1,0 +1,13 @@
+{
+  "name": "charts-proxy",
+  "version": "1.0.0",
+  "main": "restproxy.js",
+  "scripts": {
+    "start": "node restproxy.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "request-promise": "^4.2.4"
+  }
+}
